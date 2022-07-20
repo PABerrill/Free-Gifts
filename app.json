@@ -3,12 +3,12 @@
     "name":  "Free Gift App",
     "publisher":  "Phil",
     "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
+    "brief":  "Free gift extension",
+    "description":  "A training app for Phil",
     "privacyStatement":  "",
     "EULA":  "",
-    "help":  "",
-    "url":  "",
+    "help":  "https://www.berrill.net",
+    "url":  "https://www.berrill.net",
     "logo":  "",
     "dependencies":  [
 
@@ -26,7 +26,7 @@
                  ],
     "resourceExposurePolicy":  {
                                    "allowDebugging":  true,
-                                   "allowDownloadingSource":  false,
-                                   "includeSourceInSymbolFile":  false
+                                   "allowDownloadingSource":  true,
+                                   "includeSourceInSymbolFile":  true
                                }
 }
